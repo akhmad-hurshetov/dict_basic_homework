@@ -7,12 +7,5 @@ def create_dictionary(key, value):
     Returns:
         dict: dictionary with keys and values
     """
-    create_dictionary={
-        'key':1,
-        'value':"one",
-        'key':2,
-        'value':"two",
-        'key':3,
-        'value':"three"
-    }
+    create_dictionary={1:'one',2:'two',3:'three'}
     return create_dictionary
