@@ -7,4 +7,5 @@ def count_all(txt):
     Returns:
         dict: dictionary with letters and digits
     """
+    
     return

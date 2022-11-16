@@ -7,5 +7,5 @@ def create_dictionary(key, value):
     Returns:
         dict: dictionary with keys and values
     """
-    create_dictionary={key:value}
-    return create_dictionary
+    creating=dict(zip(key,value))
+    return creating
